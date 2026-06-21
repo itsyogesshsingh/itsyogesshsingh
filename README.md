@@ -1,36 +1,148 @@
-## Hi there 👋
+# Hi there 👋 I'm Yogesh Singh
 
+### Backend Developer | PHP • Laravel • CodeIgniter • Symfony • C#
 
-**itsyogesshsingh/itsyogesshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Backend Developer with experience building scalable, secure, and high-performance web applications.
 
-Here are some ideas to get you started:
+I specialize in designing robust backend systems, RESTful APIs, database optimization, authentication systems, and enterprise-grade web applications using PHP technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 💫 About Me:
-Hi, I'm Yogesh Singh, a Backend Developer with expertise in building scalable, secure, and high-performance web applications. I specialize in Core PHP, Laravel, MySQL, and REST API development. With strong experience in backend architecture, database design, API integration, and server-side programming, I focus on creating efficient solutions that support seamless user experiences.<br><br>I have hands-on experience developing and maintaining web applications, optimizing database performance, implementing authentication and authorization systems, and integrating third-party services. My approach emphasizes clean code, best practices, and delivering reliable, maintainable software solutions.<br><br>Technical Skills:<br><br>Core PHP<br>Laravel Framework<br>MySQL Database Design & Optimization<br>RESTful API Development & Integration<br>MVC Architecture<br>Authentication & Authorization<br>API Security<br>Git Version Control<br>Backend Performance Optimization<br><br>I am passionate about solving complex technical challenges and continuously learning new technologies to improve application performance and scalability.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__yogessh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogessh.singh11@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itsyogesshsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=itsyogesshsingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsyogesshsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently working extensively with **Laravel, CodeIgniter 3, Symfony, MySQL, Redis, RabbitMQ, and AWS**, while also expanding my expertise in **C# and .NET development**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=itsyogesshsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
+* 🔭 Currently working as a Backend Developer
+* 🌱 Learning advanced System Design, Microservices & .NET Ecosystem
+* 💡 Experienced in API Development, Database Architecture & Performance Optimization
+* 🤝 Open to collaborating on Backend & Open Source Projects
+* 💬 Ask me about PHP, Laravel, CodeIgniter, Symfony, MySQL, Redis, REST APIs, RabbitMQ
+* 📫 Reach me: **[yogessh.singh11@gmail.com](mailto:yogessh.singh11@gmail.com)**
 
+---
+
+## 🛠️ Backend Expertise
+
+### PHP Ecosystem
+
+* Core PHP
+* Laravel
+* CodeIgniter 3
+* Symfony
+* Composer
+* REST API Development
+* JWT Authentication
+* OAuth Integration
+
+### Databases
+
+* MySQL
+* MariaDB
+* Redis
+* Query Optimization
+* Database Design
+* Indexing & Performance Tuning
+
+### Architecture & Development
+
+* MVC Architecture
+* Repository Pattern
+* Service Layer Architecture
+* RESTful APIs
+* API Security
+* Authentication & Authorization
+* Third-Party Integrations
+* Payment Gateway Integration
+
+### DevOps & Infrastructure
+
+* AWS
+* Nginx
+* Apache
+* Jenkins
+* GitHub Actions
+* Docker (Learning)
+* Linux Server Management
+
+### Messaging & Caching
+
+* RabbitMQ
+* Redis
+* Queue Management
+* Background Jobs
+
+### Microsoft Stack
+
+* C#
+* .NET
+* ASP.NET Core (Learning)
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+### Database & Caching
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Queue & Messaging
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+
+### Frontend Familiarity
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+
+### DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
+## 📈 What I Build
+
+✔ RESTful APIs
+✔ Enterprise Web Applications
+✔ CRM & ERP Solutions
+✔ Authentication Systems
+✔ Payment Integrations
+✔ High-Traffic Backend Services
+✔ Database Optimization Solutions
+✔ Queue-Based Processing Systems
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/its__yogessh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yogessh.singh11@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=itsyogesshsingh\&show_icons=true\&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=itsyogesshsingh\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyogesshsingh\&layout=compact\&theme=tokyonight)
+
+---
+
+### ⚡ Backend First. Performance Driven. Clean Code Enthusiast.
