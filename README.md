@@ -87,7 +87,7 @@ Backend Developer experienced in building scalable web applications, REST APIs, 
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyogesshsingh&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyogesshsingh&show_icons=true&theme=tokyonight&hide_border=true](https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png))
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itsyogesshsingh&theme=tokyonight&hide_border=true)
 
